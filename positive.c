@@ -2,17 +2,17 @@
 #include<conio.h>
 void main()
 {
-int b;
-scanf("%d",&b);
+int a;
+scanf("%d",&a);
 if(b==0)
 {
 printf("zero");
 }
-else if(b>0)
+else if(a>0)
 {
 printf("positive");
 }
-else if(b<0)
+else if(a<0)
 {
 printf("positive");
 }
